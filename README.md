@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--![gifdogithub](https://github.com/user-attachments/assets/fa247bba-73cc-4424-bee8-5210b4671595)
+
 **KelvinKrauss/KelvinKrauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
