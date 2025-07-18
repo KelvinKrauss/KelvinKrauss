@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="./gifdogithub.gif" width="100%"/>
-</p>
+<img src="./gifdogithub.gif" width="100%"/>
+
