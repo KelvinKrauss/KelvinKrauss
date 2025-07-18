@@ -1,2 +1,1 @@
-<img src="./gifdogithub.gif" width="100%"/>
-
+<img src="./gifdogithub.gif" width="1280"/>
