@@ -2,8 +2,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight) | <img src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif" width="300" /> |
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight) | <img src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif" width="300" /> || <img src="https://giphy.com/gifs/pixel-retro-8bit-Pb0d5MsNSeGoA2v1zv" width="300" />
 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
