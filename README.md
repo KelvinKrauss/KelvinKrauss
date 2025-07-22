@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3E1Y2pudnNkaDNxODJhbjZsdjNjOWhhdGo1c3U5M3k1YnhsaTAwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="400" />
 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
