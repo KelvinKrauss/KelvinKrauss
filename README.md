@@ -1,4 +1,4 @@
-<img src="./gifdogithub.gif" width="1280"/>
+<img src="./gifdogithub.gif" width="1680"/>
 
 ## 📊 Linguagens mais usadas
 
