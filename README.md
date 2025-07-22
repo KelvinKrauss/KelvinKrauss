@@ -3,7 +3,7 @@
 ## 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight)
-<img src="https://media.giphy.com/media/Qf6cDgB5P2PNc/giphy.gif" width="150" />
+<img src=https://giphy.com/gifs/animation-pixelart-clipstudiopaint-ttknk7M3d3UBEeZsii/>
 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
