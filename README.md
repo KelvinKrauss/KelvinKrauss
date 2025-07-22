@@ -2,7 +2,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight) | <img src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif" width="600" /> |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight) | <img src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif" width="1200" /> |
 
 
 
