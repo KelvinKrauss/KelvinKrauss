@@ -2,7 +2,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight&langs_count=10) | <img src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif" width="300" /> || <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pyb2VhMXZmMHNhamhnYXg4eHp5c3hhenJ6YWc0eWc1c25iYjc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pb0d5MsNSeGoA2v1zv/giphy.gif" width="170" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight&langs_count=20) | <img src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif" width="300" /> || <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pyb2VhMXZmMHNhamhnYXg4eHp5c3hhenJ6YWc0eWc1c25iYjc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pb0d5MsNSeGoA2v1zv/giphy.gif" width="170" />
 
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
