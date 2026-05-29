@@ -8,7 +8,6 @@
 <!-- 👋 SAUDAÇÃO (Opcional: edite com suas informações) -->
 <div align="center">
   <h1>Olá! Eu sou o Kelvin Krauss 👋</h1>
-  <p>Desenvolvedor focado em criar soluções eficientes e de alta qualidade.</p>
 </div>
 
 <br>
