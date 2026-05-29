@@ -1,29 +1,33 @@
 <div align="center">
+
   <!-- BANNER GIF -->
-  <img src="COLE_O_LINK_DO_SEU_GIF_AQUI.gif" alt="Banner" width="100%" style="border-radius: 15px; border: 1px solid #444;" />
+  <img src="SEU_LINK_DO_GIF_AQUI.gif" alt="Banner" width="100%" style="border-radius: 15px; border: 2px solid #F72585;" />
   
+  <br>
+
+  <!-- TEXTO COLORIDO E ANIMADO (Substitui o texto chato por algo dinâmico) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Um+espaço+para+guardar+ideias...;Acompanhando+minhas+estatísticas...;Apenas+código+e+ferramentas." alt="Texto Animado" />
+
   <br><br>
 
-  <!-- SAUDAÇÃO MINIMALISTA -->
-  <i>Apenas um espaço para guardar código, ideias e estatísticas.</i>
-  
+  <!-- O QUE EU USO (Ferramentas com cores originais) -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
   <br><br>
-  <hr style="width: 50%; border: 1px solid #444;">
-  <br>
 
-  <!-- ESTATÍSTICAS E LINGUAGENS -->
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&border_color=444&border_radius=10" alt="Linguagens mais usadas" />
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=transparent&show_icons=true&border_color=444&border_radius=10&hide_rank=true" alt="Estatísticas do GitHub" />
-  </div>
+  <!-- ESTATÍSTICAS COLORIDAS (Tema Radical - Rosa/Roxo) -->
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=radical&show_icons=true&border_radius=15&hide_rank=true" alt="Estatísticas do GitHub" />
+      </td>
+      <td style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&border_radius=15" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
 
-  <br>
-  <hr style="width: 50%; border: 1px solid #444;">
-  <br>
-
-  <!-- O QUE ESTOU OUVINDO (Opcional, dá um toque estético legal) -->
-  <a href="https://spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_ID_DO_SPOTIFY&cover_image=true&theme=novathem&bar_color=53b14f&bar_color_cover=true" alt="Ouvindo agora" style="border-radius: 10px; border: 1px solid #444;" />
-  </a>
 </div>
