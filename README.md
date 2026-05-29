@@ -1,36 +1,29 @@
 <div align="center">
-  <img src="./gifdogithub.gif" width="100%" alt="Banner" />
-</div>
-
-<br>
-
-<div align="center">
-  <h1>Olá! Eu sou o Kelvin Krauss 👋</h1>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🛠️ Linguagens e Ferramentas</h3>
-  <br>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <br>
+  <!-- BANNER GIF -->
+  <img src="COLE_O_LINK_DO_SEU_GIF_AQUI.gif" alt="Banner" width="100%" style="border-radius: 15px; border: 1px solid #444;" />
   
-  <a href="https://github.com/KelvinKrauss" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=KelvinKrauss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="150" />
-  </a>
+  <br><br>
+
+  <!-- SAUDAÇÃO MINIMALISTA -->
+  <i>Apenas um espaço para guardar código, ideias e estatísticas.</i>
   
-  <a href="https://github.com/KelvinKrauss" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight&langs_count=10" alt="Linguagens mais usadas" height="150" />
+  <br><br>
+  <hr style="width: 50%; border: 1px solid #444;">
+  <br>
+
+  <!-- ESTATÍSTICAS E LINGUAGENS -->
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&border_color=444&border_radius=10" alt="Linguagens mais usadas" />
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=transparent&show_icons=true&border_color=444&border_radius=10&hide_rank=true" alt="Estatísticas do GitHub" />
+  </div>
+
+  <br>
+  <hr style="width: 50%; border: 1px solid #444;">
+  <br>
+
+  <!-- O QUE ESTOU OUVINDO (Opcional, dá um toque estético legal) -->
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_ID_DO_SPOTIFY&cover_image=true&theme=novathem&bar_color=53b14f&bar_color_cover=true" alt="Ouvindo agora" style="border-radius: 10px; border: 1px solid #444;" />
   </a>
 </div>
