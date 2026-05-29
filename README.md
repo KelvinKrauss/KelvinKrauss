@@ -13,7 +13,6 @@
   <!-- O QUE EU USO (Ferramentas com cores originais) -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
   <br><br>
@@ -22,10 +21,10 @@
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=radical&show_icons=true&border_radius=15&hide_rank=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KelvinKrauss&theme=radical&show_icons=true&border_radius=15&hide_rank=true" alt="Estatísticas do GitHub" />
       </td>
       <td style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&border_radius=15" alt="Linguagens mais usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=radical&border_radius=15" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
