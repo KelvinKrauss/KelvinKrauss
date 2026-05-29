@@ -1,14 +1,41 @@
-<img src="./gifdogithub.gif" width="1680"/>
+<!-- 🌟 BANNER -->
+<div align="center">
+  <img src="./gifdogithub.gif" width="100%" alt="Banner Profile" />
+</div>
 
-## 📊 Linguagens mais usadas
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight&langs_count=20)
+<!-- 👋 SAUDAÇÃO (Opcional: edite com suas informações) -->
+<div align="center">
+  <h1>Olá! Eu sou o Kelvin Krauss 👋</h1>
+  <p>Desenvolvedor focado em criar soluções eficientes e de alta qualidade.</p>
+</div>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+<br>
 
+<!-- 🛠️ TECNOLOGIAS -->
+<div align="center">
+  <h3>🛠️ Linguagens e Ferramentas</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
 
+<br>
 
+<!-- 📊 ESTATÍSTICAS -->
+<div align="center">
+  <h3>📊 Estatísticas do GitHub</h3>
+  <br>
+  <!-- Card de Estatísticas Gerais (Novo) -->
+  <a href="https://github.com/KelvinKrauss">
+    <img src="https://github-readme-stats.vercel.app/api?username=KelvinKrauss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Kelvin" height="150" />
+  </a>
+  <!-- Card de Linguagens (O seu) -->
+  <a href="https://github.com/KelvinKrauss">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight&langs_count=10" alt="Linguagens mais usadas" height="150" />
+  </a>
+</div>
