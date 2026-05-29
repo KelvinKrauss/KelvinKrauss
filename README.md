@@ -1,18 +1,15 @@
-<!-- 🌟 BANNER -->
 <div align="center">
-  <img src="./gifdogithub.gif" width="100%" alt="Banner Profile" />
+  <img src="./gifdogithub.gif" width="100%" alt="Banner" />
 </div>
 
 <br>
 
-<!-- 👋 SAUDAÇÃO (Opcional: edite com suas informações) -->
 <div align="center">
   <h1>Olá! Eu sou o Kelvin Krauss 👋</h1>
 </div>
 
 <br>
 
-<!-- 🛠️ TECNOLOGIAS -->
 <div align="center">
   <h3>🛠️ Linguagens e Ferramentas</h3>
   <br>
@@ -25,16 +22,15 @@
 
 <br>
 
-<!-- 📊 ESTATÍSTICAS -->
 <div align="center">
   <h3>📊 Estatísticas do GitHub</h3>
   <br>
-  <!-- Card de Estatísticas Gerais (Novo) -->
-  <a href="https://github.com/KelvinKrauss">
-    <img src="https://github-readme-stats.vercel.app/api?username=KelvinKrauss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Kelvin" height="150" />
+  
+  <a href="https://github.com/KelvinKrauss" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=KelvinKrauss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="150" />
   </a>
-  <!-- Card de Linguagens (O seu) -->
-  <a href="https://github.com/KelvinKrauss">
+  
+  <a href="https://github.com/KelvinKrauss" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight&langs_count=10" alt="Linguagens mais usadas" height="150" />
   </a>
 </div>
