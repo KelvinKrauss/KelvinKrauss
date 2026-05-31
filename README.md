@@ -17,7 +17,9 @@
 
   <br><br>
 
-  <!-- ESTATÍSTICAS DO GITHUB -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight)](https://github.com/KelvinKrauss)
+  <!-- ESTATÍSTICAS DO GITHUB (CORRIGIDO PARA HTML) -->
+  <a href="https://github.com/KelvinKrauss">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
 
 </div>
