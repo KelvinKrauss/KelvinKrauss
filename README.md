@@ -17,9 +17,7 @@
 
   <br><br>
 
-  <!-- ESTATÍSTICAS DO GITHUB (CORRIGIDO PARA HTML) -->
-  <a href="https://github.com/KelvinKrauss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
+  <!-- ESTATÍSTICAS DO GITHUB (AGORA NO SERVIDOR QUE FUNCIONA) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight" alt="Estatísticas de Linguagens" />
 
 </div>
