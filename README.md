@@ -18,7 +18,6 @@
   <br><br>
 
   <!-- ESTATÍSTICAS DO GITHUB -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KelvinKrauss&theme=radical&show_icons=true&border_radius=15" alt="Estatísticas" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=radical&border_radius=15" alt="Linguagens" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight)](https://github.com/KelvinKrauss)
 
 </div>
