@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
   <!-- BANNER GIF -->
   <img src="https://i.pinimg.com/originals/a0/0a/65/a00a65fa6e5309320e82c5ba75b2bf2d.gif" alt="Banner" width="100%" style="border-radius: 15px; border: 2px solid #F72585;" />
@@ -21,3 +21,4 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KelvinKrauss&layout=compact&theme=tokyonight" alt="Estatísticas de Linguagens" />
 
 </div>
+](https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif)
